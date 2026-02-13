@@ -1,0 +1,12 @@
+// 문자열 자료형
+
+// string = 문자열, 쌍따옴표/작은 따옴표로 감싼 값
+
+let username = "alex";
+let message = "Hello";
+
+console.log(username);
+console.log(message);
+
+console.log(typeof username);
+console.log(typeof message);
