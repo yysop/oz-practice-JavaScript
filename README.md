@@ -3,7 +3,7 @@ JS/
 ├── 01-Basic-Syntax/      # 변수와 기본 자료형 학습
 │   ├── var.js            # 변수 선언 방식
 │   ├── string.js         # 문자열 처리
-│   ├── numer.js          # 숫자 데이터 타입
+│   ├── number.js          # 숫자 데이터 타입
 │   ├── boolean.js        # 불리언(True/False)
 │   ├── null.js           # Null 타입
 │   ├── undefined.js      # Undefined 타입
@@ -14,6 +14,12 @@ JS/
 │   ├── equal.js          # 동등/일치 연산자
 │   ├── logical.js        # 논리 연산자
 │   └── concat.js         # 문자열 결합
+├── 03-Control-Flow/      # 제어 흐름 학습
+│   ├── condition.js      # 조건문 
+│   └──        
+├── 00-Assignments/         # 과제
+│   ├── console-calculator.js  # 콘솔 계산기
+│   └──        
 └── js.html               # 브라우저 실습용
 │ 
 └── README.md             # 학습 기록 저장소
