@@ -1,3 +1,5 @@
+// solution 
+
 const num1 = 10;
 const num2 = 20;
 // let 대신 const 사용하여 변수 값이 변하지 않게 함
